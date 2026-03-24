@@ -1,0 +1,251 @@
+{
+  "type": "ngss",
+  "name": "Next Generation Science Standards",
+  "standards": [
+    {
+      "code": "NGSS.K-PS2-1",
+      "grade": "K",
+      "domain": "Physical Science",
+      "description": "Plan and conduct an investigation to compare the effects of different strengths or different directions of pushes and pulls on the motion of an object.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.K-PS2-2",
+      "grade": "K",
+      "domain": "Physical Science",
+      "description": "Analyze data to determine if a design solution works as intended to change the speed or direction of an object with a push or a pull.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.K-LS1-1",
+      "grade": "K",
+      "domain": "Life Science",
+      "description": "Use observations to describe patterns of what plants and animals (including humans) need to survive.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.K-ESS2-1",
+      "grade": "K",
+      "domain": "Earth & Space Science",
+      "description": "Use and share observations of local weather conditions to describe patterns over time.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.K-ESS3-1",
+      "grade": "K",
+      "domain": "Earth & Space Science",
+      "description": "Use a model to represent the relationship between the needs of different plants or animals (including humans) and the places they live.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.1-PS4-1",
+      "grade": "1",
+      "domain": "Physical Science",
+      "description": "Plan and conduct investigations to provide evidence that vibrating materials can make sound and that sound can make materials vibrate.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.1-LS1-1",
+      "grade": "1",
+      "domain": "Life Science",
+      "description": "Use materials to design a solution to a human problem by mimicking how plants and/or animals use their external parts to help them survive, grow, and meet their needs.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.2-PS1-1",
+      "grade": "2",
+      "domain": "Physical Science",
+      "description": "Plan and conduct an investigation to describe and classify different kinds of materials by their observable properties.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.2-LS2-1",
+      "grade": "2",
+      "domain": "Life Science",
+      "description": "Plan and conduct an investigation to determine if plants need sunlight and water to grow.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.2-ESS1-1",
+      "grade": "2",
+      "domain": "Earth & Space Science",
+      "description": "Use information from several sources to provide evidence that Earth events can occur quickly or slowly.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.3-PS2-1",
+      "grade": "3",
+      "domain": "Physical Science",
+      "description": "Plan and conduct an investigation to provide evidence of the effects of balanced and unbalanced forces on the motion of an object.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.3-LS1-1",
+      "grade": "3",
+      "domain": "Life Science",
+      "description": "Develop models to describe that organisms have unique and diverse life cycles but all have in common birth, growth, reproduction, and death.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.3-LS3-1",
+      "grade": "3",
+      "domain": "Life Science",
+      "description": "Analyze and interpret data to provide evidence that plants and animals have traits inherited from parents and that variation of these traits exists in a group of similar organisms.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.3-ESS2-1",
+      "grade": "3",
+      "domain": "Earth & Space Science",
+      "description": "Represent data in tables and graphical displays to describe typical weather conditions expected during a particular season.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.4-PS3-1",
+      "grade": "4",
+      "domain": "Physical Science",
+      "description": "Use evidence to construct an explanation relating the speed of an object to the energy of that object.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.4-LS1-1",
+      "grade": "4",
+      "domain": "Life Science",
+      "description": "Construct an argument that plants and animals have internal and external structures that function to support survival, growth, behavior, and reproduction.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.4-ESS1-1",
+      "grade": "4",
+      "domain": "Earth & Space Science",
+      "description": "Identify evidence from patterns in rock formations and fossils in rock layers to support an explanation for changes in a landscape over time.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.5-PS1-1",
+      "grade": "5",
+      "domain": "Physical Science",
+      "description": "Develop a model to describe that matter is made of particles too small to be seen.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.5-PS3-1",
+      "grade": "5",
+      "domain": "Physical Science",
+      "description": "Use models to describe that energy in animals' food (used for body repair, growth, motion, and to maintain body warmth) was once energy from the sun.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.5-LS2-1",
+      "grade": "5",
+      "domain": "Life Science",
+      "description": "Develop a model to describe the movement of matter among plants, animals, decomposers, and the environment.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.5-ESS1-1",
+      "grade": "5",
+      "domain": "Earth & Space Science",
+      "description": "Support an argument that differences in the apparent brightness of the sun compared to other stars is due to their relative distances from the Earth.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.MS-PS1-1",
+      "grade": "6-8",
+      "domain": "Physical Science",
+      "description": "Develop models to describe the atomic composition of simple molecules and extended structures.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.MS-PS1-2",
+      "grade": "6-8",
+      "domain": "Physical Science",
+      "description": "Analyze and interpret data on the properties of substances before and after the substances interact to determine if a chemical reaction has occurred.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.MS-LS1-1",
+      "grade": "6-8",
+      "domain": "Life Science",
+      "description": "Conduct an investigation to provide evidence that living things are made of cells; either one cell or many different numbers and types of cells.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.MS-LS1-5",
+      "grade": "6-8",
+      "domain": "Life Science",
+      "description": "Construct a scientific explanation based on evidence for how environmental and genetic factors influence the growth of organisms.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.MS-ESS1-1",
+      "grade": "6-8",
+      "domain": "Earth & Space Science",
+      "description": "Develop and use a model of the Earth-sun-moon system to describe the cyclic patterns of lunar phases, eclipses of the sun and moon, and seasons.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.MS-ESS2-1",
+      "grade": "6-8",
+      "domain": "Earth & Space Science",
+      "description": "Develop a model to describe the cycling of Earth's materials and the flow of energy that drives this process.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.MS-ETS1-1",
+      "grade": "6-8",
+      "domain": "Engineering, Technology & Applications of Science",
+      "description": "Define the criteria and constraints of a design problem with sufficient precision to ensure a successful solution, taking into account relevant scientific principles and potential impacts on people and the natural environment that may limit possible solutions.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.HS-PS1-1",
+      "grade": "9-12",
+      "domain": "Physical Science",
+      "description": "Use the periodic table as a model to predict the relative properties of elements based on the patterns of electrons in the outermost energy level of atoms.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.HS-PS2-1",
+      "grade": "9-12",
+      "domain": "Physical Science",
+      "description": "Analyze data to support the claim that Newton's second law of motion describes the mathematical relationship among the net force on a macroscopic object, its mass, and its acceleration.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.HS-LS1-1",
+      "grade": "9-12",
+      "domain": "Life Science",
+      "description": "Construct an explanation based on evidence for how the structure of DNA determines the structure of proteins which carry out the essential functions of life through systems of specialized cells.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.HS-LS2-8",
+      "grade": "9-12",
+      "domain": "Life Science",
+      "description": "Evaluate the claims, evidence, and reasoning that the complex interactions in ecosystems maintain relatively consistent numbers and types of organisms in stable conditions, but changing conditions may result in a new ecosystem state.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.HS-ESS1-1",
+      "grade": "9-12",
+      "domain": "Earth & Space Science",
+      "description": "Develop a model based on evidence to illustrate the life span of the sun and the role of nuclear fusion in the sun's core to release energy in the form of radiation.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.HS-ESS2-2",
+      "grade": "9-12",
+      "domain": "Earth & Space Science",
+      "description": "Analyze geoscience data to make the claim that one change to Earth's surface can create feedbacks that cause changes to other Earth systems.",
+      "sub_standards": []
+    },
+    {
+      "code": "NGSS.HS-ETS1-1",
+      "grade": "9-12",
+      "domain": "Engineering, Technology & Applications of Science",
+      "description": "Analyze a major global challenge to specify qualitative and quantitative criteria and constraints for solutions that account for societal needs and wants.",
+      "sub_standards": []
+    }
+  ]
+}
