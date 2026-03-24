@@ -104,8 +104,23 @@ app.use((err, req, res, next) => {
 });
 
 const PORT = process.env.PORT || 3001;
-app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT} [${process.env.NODE_ENV || 'development'}]`);
+async function runMigrations() {
+  const client = await pool.connect();
+  try {
+    const { schema } = require('./db/migrate');
+    await client.query(schema);
+    console.log('Database migrations applied.');
+  } catch (err) {
+    console.error('Migration error:', err);
+  } finally {
+    client.release();
+  }
+}
+
+runMigrations().then(() => {
+  app.listen(PORT, () => {
+    console.log(`Server running on port ${PORT} [${process.env.NODE_ENV || 'development'}]`);
+  });
 });
 
 module.exports = app;
