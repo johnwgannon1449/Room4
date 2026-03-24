@@ -1,0 +1,276 @@
+{
+  "type": "ccss-ela",
+  "name": "Common Core State Standards - English Language Arts",
+  "standards": [
+    {
+      "code": "CCSS.ELA-LITERACY.RF.K.1",
+      "grade": "K",
+      "domain": "Reading: Foundational Skills",
+      "description": "Demonstrate understanding of the organization and basic features of print.",
+      "sub_standards": [
+        { "code": "CCSS.ELA-LITERACY.RF.K.1.A", "description": "Follow words from left to right, top to bottom, and page by page." },
+        { "code": "CCSS.ELA-LITERACY.RF.K.1.B", "description": "Recognize that spoken words are represented in written language by specific sequences of letters." },
+        { "code": "CCSS.ELA-LITERACY.RF.K.1.C", "description": "Understand that words are separated by spaces in print." },
+        { "code": "CCSS.ELA-LITERACY.RF.K.1.D", "description": "Recognize and name all upper- and lowercase letters of the alphabet." }
+      ]
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.RF.K.2",
+      "grade": "K",
+      "domain": "Reading: Foundational Skills",
+      "description": "Demonstrate understanding of spoken words, syllables, and sounds (phonemes).",
+      "sub_standards": [
+        { "code": "CCSS.ELA-LITERACY.RF.K.2.A", "description": "Recognize and produce rhyming words." },
+        { "code": "CCSS.ELA-LITERACY.RF.K.2.B", "description": "Count, pronounce, blend, and segment syllables in spoken words." },
+        { "code": "CCSS.ELA-LITERACY.RF.K.2.C", "description": "Blend and segment onsets and rimes of single-syllable spoken words." },
+        { "code": "CCSS.ELA-LITERACY.RF.K.2.D", "description": "Isolate and pronounce the initial, medial vowel, and final sounds (phonemes) in three-phoneme (CVC) words." },
+        { "code": "CCSS.ELA-LITERACY.RF.K.2.E", "description": "Add or substitute individual sounds (phonemes) in simple, one-syllable words to make new words." }
+      ]
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.RF.K.3",
+      "grade": "K",
+      "domain": "Reading: Foundational Skills",
+      "description": "Know and apply grade-level phonics and word analysis skills in decoding words.",
+      "sub_standards": [
+        { "code": "CCSS.ELA-LITERACY.RF.K.3.A", "description": "Demonstrate basic knowledge of one-to-one letter-sound correspondences by producing the primary sound or many of the most frequent sounds for each consonant." },
+        { "code": "CCSS.ELA-LITERACY.RF.K.3.B", "description": "Associate the long and short sounds with common spellings (graphemes) for the five major vowels." },
+        { "code": "CCSS.ELA-LITERACY.RF.K.3.C", "description": "Read common high-frequency words by sight." },
+        { "code": "CCSS.ELA-LITERACY.RF.K.3.D", "description": "Distinguish between similarly spelled words by identifying the sounds of the letters that differ." }
+      ]
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.RL.1.1",
+      "grade": "1",
+      "domain": "Reading: Literature",
+      "description": "Ask and answer questions about key details in a text.",
+      "sub_standards": []
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.RL.1.2",
+      "grade": "1",
+      "domain": "Reading: Literature",
+      "description": "Retell stories, including key details, and demonstrate understanding of their central message or lesson.",
+      "sub_standards": []
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.RL.1.3",
+      "grade": "1",
+      "domain": "Reading: Literature",
+      "description": "Describe characters, settings, and major events in a story, using key details.",
+      "sub_standards": []
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.RI.2.1",
+      "grade": "2",
+      "domain": "Reading: Informational Text",
+      "description": "Ask and answer such questions as who, what, where, when, why, and how to demonstrate understanding of key details in a text.",
+      "sub_standards": []
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.RI.2.2",
+      "grade": "2",
+      "domain": "Reading: Informational Text",
+      "description": "Identify the main topic of a multiparagraph text as well as the focus of specific paragraphs within the text.",
+      "sub_standards": []
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.RI.3.1",
+      "grade": "3",
+      "domain": "Reading: Informational Text",
+      "description": "Ask and answer questions to demonstrate understanding of a text, referring explicitly to the text as the basis for the answers.",
+      "sub_standards": []
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.RI.3.2",
+      "grade": "3",
+      "domain": "Reading: Informational Text",
+      "description": "Determine the main idea of a text; recount the key details and explain how they support the main idea.",
+      "sub_standards": []
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.RI.3.3",
+      "grade": "3",
+      "domain": "Reading: Informational Text",
+      "description": "Describe the relationship between a series of historical events, scientific ideas or concepts, or steps in technical procedures in a text, using language that pertains to time, sequence, and cause/effect.",
+      "sub_standards": []
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.RI.4.1",
+      "grade": "4",
+      "domain": "Reading: Informational Text",
+      "description": "Refer to details and examples in a text when explaining what the text says explicitly and when drawing inferences from the text.",
+      "sub_standards": []
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.RI.4.2",
+      "grade": "4",
+      "domain": "Reading: Informational Text",
+      "description": "Determine the main idea of a text and explain how it is supported by key details; summarize the text.",
+      "sub_standards": []
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.RI.5.1",
+      "grade": "5",
+      "domain": "Reading: Informational Text",
+      "description": "Quote accurately from a text when explaining what the text says explicitly and when drawing inferences from the text.",
+      "sub_standards": []
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.RI.5.2",
+      "grade": "5",
+      "domain": "Reading: Informational Text",
+      "description": "Determine two or more main ideas of a text and explain how they are supported by key details; summarize the text.",
+      "sub_standards": []
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.RI.5.3",
+      "grade": "5",
+      "domain": "Reading: Informational Text",
+      "description": "Explain the relationships or interactions between two or more individuals, events, ideas, or concepts in a text based on specific information in the text.",
+      "sub_standards": []
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.W.5.1",
+      "grade": "5",
+      "domain": "Writing",
+      "description": "Write opinion pieces on topics or texts, supporting a point of view with reasons and information.",
+      "sub_standards": [
+        { "code": "CCSS.ELA-LITERACY.W.5.1.A", "description": "Introduce a topic or text clearly, state an opinion, and create an organizational structure in which ideas are logically grouped to support the writer's purpose." },
+        { "code": "CCSS.ELA-LITERACY.W.5.1.B", "description": "Provide logically ordered reasons that are supported by facts and details." },
+        { "code": "CCSS.ELA-LITERACY.W.5.1.C", "description": "Link opinion and reasons using words, phrases, and clauses." },
+        { "code": "CCSS.ELA-LITERACY.W.5.1.D", "description": "Provide a concluding statement or section related to the opinion presented." }
+      ]
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.W.5.2",
+      "grade": "5",
+      "domain": "Writing",
+      "description": "Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
+      "sub_standards": [
+        { "code": "CCSS.ELA-LITERACY.W.5.2.A", "description": "Introduce a topic clearly, provide a general observation and focus, and group related information logically; include formatting, illustrations, and multimedia when useful." },
+        { "code": "CCSS.ELA-LITERACY.W.5.2.B", "description": "Develop the topic with facts, definitions, concrete details, quotations, or other information and examples related to the topic." },
+        { "code": "CCSS.ELA-LITERACY.W.5.2.C", "description": "Link ideas within and across categories of information using words, phrases, and clauses." },
+        { "code": "CCSS.ELA-LITERACY.W.5.2.D", "description": "Use precise language and domain-specific vocabulary to inform about or explain the topic." },
+        { "code": "CCSS.ELA-LITERACY.W.5.2.E", "description": "Provide a concluding statement or section related to the information or explanation presented." }
+      ]
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.RL.6.1",
+      "grade": "6",
+      "domain": "Reading: Literature",
+      "description": "Cite textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text.",
+      "sub_standards": []
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.RL.6.2",
+      "grade": "6",
+      "domain": "Reading: Literature",
+      "description": "Determine a theme or central idea of a text and how it is conveyed through particular details; provide a summary of the text distinct from personal opinions or judgments.",
+      "sub_standards": []
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.RL.6.3",
+      "grade": "6",
+      "domain": "Reading: Literature",
+      "description": "Describe how a particular story's or drama's plot unfolds in a series of episodes as well as how the characters respond or change as the plot moves toward a resolution.",
+      "sub_standards": []
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.W.6.1",
+      "grade": "6",
+      "domain": "Writing",
+      "description": "Write arguments to support claims with clear reasons and relevant evidence.",
+      "sub_standards": [
+        { "code": "CCSS.ELA-LITERACY.W.6.1.A", "description": "Introduce claim(s) and organize the reasons and evidence clearly." },
+        { "code": "CCSS.ELA-LITERACY.W.6.1.B", "description": "Support claim(s) with clear reasons and relevant evidence, using credible sources and demonstrating an understanding of the topic or text." },
+        { "code": "CCSS.ELA-LITERACY.W.6.1.C", "description": "Use words, phrases, and clauses to clarify the relationships among claim(s) and reasons." },
+        { "code": "CCSS.ELA-LITERACY.W.6.1.D", "description": "Establish and maintain a formal style." },
+        { "code": "CCSS.ELA-LITERACY.W.6.1.E", "description": "Provide a concluding statement or section that follows from the argument presented." }
+      ]
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.RH.6-8.1",
+      "grade": "6-8",
+      "domain": "Reading: History/Social Studies",
+      "description": "Cite specific textual evidence to support analysis of primary and secondary sources.",
+      "sub_standards": []
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.RH.6-8.2",
+      "grade": "6-8",
+      "domain": "Reading: History/Social Studies",
+      "description": "Determine the central ideas or information of a primary or secondary source; provide an accurate summary of the source distinct from prior knowledge or opinions.",
+      "sub_standards": []
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.RL.9-10.1",
+      "grade": "9-10",
+      "domain": "Reading: Literature",
+      "description": "Cite strong and thorough textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text.",
+      "sub_standards": []
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.RL.9-10.2",
+      "grade": "9-10",
+      "domain": "Reading: Literature",
+      "description": "Determine a theme or central idea of a text and analyze in detail its development over the course of the text, including how it emerges and is shaped and refined by specific details.",
+      "sub_standards": []
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.W.9-10.1",
+      "grade": "9-10",
+      "domain": "Writing",
+      "description": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
+      "sub_standards": [
+        { "code": "CCSS.ELA-LITERACY.W.9-10.1.A", "description": "Introduce precise claim(s), distinguish the claim(s) from alternate or opposing claims, and create an organization that establishes clear relationships among claim(s), counterclaims, reasons, and evidence." },
+        { "code": "CCSS.ELA-LITERACY.W.9-10.1.B", "description": "Develop claim(s) and counterclaims fairly, supplying evidence for each while pointing out the strengths and limitations of both in a manner that anticipates the audience's knowledge level and concerns." },
+        { "code": "CCSS.ELA-LITERACY.W.9-10.1.C", "description": "Use words, phrases, and clauses to link the major sections of the text, create cohesion, and clarify the relationships between claim(s) and reasons, between reasons and evidence, and between claim(s) and counterclaims." },
+        { "code": "CCSS.ELA-LITERACY.W.9-10.1.D", "description": "Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing." },
+        { "code": "CCSS.ELA-LITERACY.W.9-10.1.E", "description": "Provide a concluding statement or section that follows from and supports the argument presented." }
+      ]
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.RL.11-12.1",
+      "grade": "11-12",
+      "domain": "Reading: Literature",
+      "description": "Cite strong and thorough textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text, including determining where the text leaves matters uncertain.",
+      "sub_standards": []
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.W.11-12.1",
+      "grade": "11-12",
+      "domain": "Writing",
+      "description": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
+      "sub_standards": [
+        { "code": "CCSS.ELA-LITERACY.W.11-12.1.A", "description": "Introduce precise, knowledgeable claim(s), establish the significance of the claim(s), distinguish the claim(s) from alternate or opposing claims, and create an organization that logically sequences claim(s), counterclaims, reasons, and evidence." },
+        { "code": "CCSS.ELA-LITERACY.W.11-12.1.B", "description": "Develop claim(s) and counterclaims fairly and thoroughly, supplying the most relevant evidence for each while pointing out the strengths and limitations of both." },
+        { "code": "CCSS.ELA-LITERACY.W.11-12.1.E", "description": "Provide a concluding statement or section that follows from and supports the argument presented." }
+      ]
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.SL.4.1",
+      "grade": "4",
+      "domain": "Speaking & Listening",
+      "description": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 4 topics and texts, building on others' ideas and expressing their own clearly.",
+      "sub_standards": [
+        { "code": "CCSS.ELA-LITERACY.SL.4.1.A", "description": "Come to discussions prepared, having read or studied required material; explicitly draw on that preparation and other information known about the topic to explore ideas under discussion." },
+        { "code": "CCSS.ELA-LITERACY.SL.4.1.B", "description": "Follow agreed-upon rules for discussions and carry out assigned roles." },
+        { "code": "CCSS.ELA-LITERACY.SL.4.1.C", "description": "Pose and respond to specific questions to clarify or follow up on information, and make comments that contribute to the discussion and link to the remarks of others." },
+        { "code": "CCSS.ELA-LITERACY.SL.4.1.D", "description": "Review the key ideas expressed and explain their own ideas and understanding in light of the discussion." }
+      ]
+    },
+    {
+      "code": "CCSS.ELA-LITERACY.L.3.1",
+      "grade": "3",
+      "domain": "Language",
+      "description": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+      "sub_standards": [
+        { "code": "CCSS.ELA-LITERACY.L.3.1.A", "description": "Explain the function of nouns, pronouns, verbs, adjectives, and adverbs in general and their functions in particular sentences." },
+        { "code": "CCSS.ELA-LITERACY.L.3.1.B", "description": "Form and use regular and irregular plural nouns." },
+        { "code": "CCSS.ELA-LITERACY.L.3.1.C", "description": "Use abstract nouns." },
+        { "code": "CCSS.ELA-LITERACY.L.3.1.D", "description": "Form and use regular and irregular verbs." }
+      ]
+    }
+  ]
+}
