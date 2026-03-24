@@ -195,3 +195,4 @@ pm2 start server/index.js --name lesson-plan-analyzer --env production
 - JWT tokens expire after 7 days; the client redirects to `/login?expired=1` on 401.
 - Claude-calling routes are rate-limited to 30 requests/hour per user to prevent runaway API costs.
 - Passwords are hashed with bcrypt (12 rounds).
+"# cache bust" 
